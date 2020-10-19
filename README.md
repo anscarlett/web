@@ -1,3 +1,3 @@
 # web
 
-[three.js](threejs/threejs.html)
+[three.js](three.js/threejs.html)
